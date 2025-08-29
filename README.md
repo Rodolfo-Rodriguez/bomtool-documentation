@@ -1,2 +1,5 @@
-# bomtool-documentation
-Updates and docs about the BOMTool app
+# BOMTool Documentation
+
+Actualizaciones y documentación sobre el proyect BOMTool
+
+* [Updates](updates.md).
