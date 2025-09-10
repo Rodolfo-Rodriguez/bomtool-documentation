@@ -1,3 +1,15 @@
+
+# Updates Realizados (10/09/2025)
+## AED
+
+- AEM - Agregar la opcion DC al appliance.
+- AEDHD1000 - Revisar y mover toda la logica a la tabal config de la base de datos.
+
+## nGenius
+
+- Cursos - Chequeo y mover logica a config en DB.
+- PFX - Fix y mover logica a config en DB.
+
 # Updates Realizados (29/08/2025)
 ## General
 
