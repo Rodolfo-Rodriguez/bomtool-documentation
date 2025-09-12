@@ -9,6 +9,8 @@
 
 - Cursos - Chequeo y mover logica a config en DB.
 - PFX - Fix y mover logica a config en DB.
+- nDA - Fix y mover logica a config en DB.
+- TAPs y Cables - Revisar y mover logica a config DB.
 
 # Updates Realizados (29/08/2025)
 ## General
