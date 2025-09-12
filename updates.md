@@ -1,5 +1,5 @@
 
-# Updates Realizados (10/09/2025)
+# Updates Realizados (12/09/2025)
 ## AED
 
 - AEM - Agregar la opcion DC al appliance.
