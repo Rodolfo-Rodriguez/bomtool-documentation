@@ -1,4 +1,15 @@
 
+# Updates Realizados (19/09/2025)
+
+## General
+- Permitir que se agreguen SKUs que no están en un Pricebook y ponerlos en rojo con un warning.
+
+## nGenius
+- **General:** Mover toda la lógica que aún queda a la tabla config_items. - Casi listo
+
+## Sightline/TMS
+- **General:** Revisar que se agreguen los SKU de MNT para los appliance de Avnet.
+  
 # Updates Realizados (12/09/2025)
 ## AED
 
