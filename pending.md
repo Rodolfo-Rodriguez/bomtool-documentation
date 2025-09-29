@@ -1,16 +1,15 @@
 # Pendientes
 
 ## General
-- Cambio de las listas de precios desde la GUI.
+- Change the Pricelists from the GUI - Need to fix the reload button.
 
 ## Sightline/TMS
-- **General:** Agregar ADP.
-- **General:** Revisar como está funcionando la parte de AIF para TMS.
-- **Distributed TMS:** Agregar.
+- **General:** Add ADP.
+- **Distributed TMS:** Add.
 
 ## OCI
-- **PFS:** Agregar PFS.
-- **Servicios:** Agregar el calculo de servicios
+- **PFS:** Add PFSs to the Configurator.
+- **Servicios:** Add Service Calculaion
 
 ## ASI Streamer
-- **Crear el Configurador**
+- **Create the Congigurator** - In rpoceso
