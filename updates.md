@@ -1,4 +1,12 @@
 
+# Updates Realizados (26/09/2025)
+
+## General
+- Cambio de las listas de precios desde la GUI. - Falta que el Boton de reload funcione
+  
+## ASI Streamer
+- **Crear el Configurador** - En proceso
+  
 # Updates Realizados (19/09/2025)
 
 ## General
